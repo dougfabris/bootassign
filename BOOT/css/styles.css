@@ -190,14 +190,26 @@
 
 .imagem {
     position: absolute;
-    left: 10%;
+    left: 15vh;
     margin-top: 70px;
 }
 
 #Footer {
   min-height: 30vh;
+  width: 100%;
+  padding: 5vh 0 0 20vh;
   display: flex;
-  justify-content: center;
+  color: #FFFFFF;
   background: #5ed090; }
+
+.universidade-title {
+    font-family: GothamRounded-Bold;
+}
+
+.midias-socias {
+    position: absolute;
+    left: 80%;
+    margin-top: -20vh;
+}
 
 /*# sourceMappingURL=styles.css.map */
