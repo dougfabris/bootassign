@@ -2,7 +2,6 @@
 
 const express = require('express')
 const bodyParser = require('body-parser')
-const request = require('request')
 const app = express()
 
 
@@ -20,7 +19,8 @@ app.use(bodyParser.json())
 
 // Index route
 app.get('/', function(req, res) {
-    res.send('asdasd')
+    res.render('index.html');
+    //res.send('asdasd')
 })
 
 
