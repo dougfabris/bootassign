@@ -19,7 +19,7 @@ app.use(bodyParser.json())
 
 // Index route
 app.get('/', function(req, res) {
-    res.render('index.html');
+    res.render('./index.html');
     //res.send('asdasd')
 })
 
