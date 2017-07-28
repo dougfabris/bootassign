@@ -144,12 +144,6 @@
     float: left;
     background: #5ed090;}
 
-#Seguranca .content-right {
-    margin: 0;
-    width: 75%;
-    min-height: 85vh;
-    float: left;
-    background: #f8fcfa;}
 
 .content-right .content {
     width: 60%;
@@ -187,12 +181,6 @@
     height: 40px;
     line-height: 40px;
     margin: 15px;}
-
-.imagem {
-    position: absolute;
-    left: 15vh;
-    margin-top: 70px;
-}
 
 #Footer {
   min-height: 30vh;
