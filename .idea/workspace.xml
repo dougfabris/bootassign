@@ -2,9 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="754e03d1-d7d6-4cae-b778-94c12b221e1b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BOOT/sass/_global.scss" afterPath="$PROJECT_DIR$/BOOT/sass/_global.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BOOT/ajustes/index.html" afterPath="$PROJECT_DIR$/BOOT/ajustes/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BOOT/css/styles.css" afterPath="$PROJECT_DIR$/BOOT/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="DELETED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\ajustes\index.html" afterPath="" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\CNAME" afterPath="$PROJECT_DIR$/CNAME" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\ajustes\chat.html" afterPath="$PROJECT_DIR$/chat.html" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\ajustes\legacy.html" afterPath="$PROJECT_DIR$/legacy.html" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\favicons\android-chrome-192x192.png" afterPath="$PROJECT_DIR$/assets/favicons/android-chrome-192x192.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\favicons\android-chrome-512x512.png" afterPath="$PROJECT_DIR$/assets/favicons/android-chrome-512x512.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\favicons\apple-touch-icon.png" afterPath="$PROJECT_DIR$/assets/favicons/apple-touch-icon.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\favicons\browserconfig.xml" afterPath="$PROJECT_DIR$/assets/favicons/browserconfig.xml" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\favicons\favicon-16x16.png" afterPath="$PROJECT_DIR$/assets/favicons/favicon-16x16.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\favicons\favicon-32x32.png" afterPath="$PROJECT_DIR$/assets/favicons/favicon-32x32.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\favicons\favicon.ico" afterPath="$PROJECT_DIR$/assets/favicons/favicon.ico" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\favicons\manifest.json" afterPath="$PROJECT_DIR$/assets/favicons/manifest.json" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\favicons\mstile-150x150.png" afterPath="$PROJECT_DIR$/assets/favicons/mstile-150x150.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\favicons\safari-pinned-tab.svg" afterPath="$PROJECT_DIR$/assets/favicons/safari-pinned-tab.svg" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\fonts\Gotham\Gotham Rounded Bold.otf" afterPath="$PROJECT_DIR$/assets/fonts/Gotham/Gotham Rounded Bold.otf" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\fonts\Gotham\Gotham Rounded Book.otf" afterPath="$PROJECT_DIR$/assets/fonts/Gotham/Gotham Rounded Book.otf" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\fonts\Gotham\Gotham Rounded Light.otf" afterPath="$PROJECT_DIR$/assets/fonts/Gotham/Gotham Rounded Light.otf" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\fonts\Gotham\Gotham Rounded Medium.otf" afterPath="$PROJECT_DIR$/assets/fonts/Gotham/Gotham Rounded Medium.otf" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\fonts\Gotham\__MACOSX\._Gotham Rounded Bold.otf" afterPath="$PROJECT_DIR$/assets/fonts/Gotham/__MACOSX/._Gotham Rounded Bold.otf" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\fonts\Gotham\__MACOSX\._Gotham Rounded Book.otf" afterPath="$PROJECT_DIR$/assets/fonts/Gotham/__MACOSX/._Gotham Rounded Book.otf" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\fonts\Gotham\__MACOSX\._Gotham Rounded Light.otf" afterPath="$PROJECT_DIR$/assets/fonts/Gotham/__MACOSX/._Gotham Rounded Light.otf" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\fonts\Gotham\__MACOSX\._Gotham Rounded Medium.otf" afterPath="$PROJECT_DIR$/assets/fonts/Gotham/__MACOSX/._Gotham Rounded Medium.otf" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\fonts\calafia-regular.otf" afterPath="$PROJECT_DIR$/assets/fonts/calafia-regular.otf" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\bg.png" afterPath="$PROJECT_DIR$/assets/imgs/bg.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\celebrating.png" afterPath="$PROJECT_DIR$/assets/imgs/celebrating.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\celebration.svg" afterPath="$PROJECT_DIR$/assets/imgs/celebration.svg" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\drag.svg" afterPath="$PROJECT_DIR$/assets/imgs/drag.svg" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\exclamation-mark.svg" afterPath="$PROJECT_DIR$/assets/imgs/exclamation-mark.svg" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\ico_down_arrow.svg" afterPath="$PROJECT_DIR$/assets/imgs/ico_down_arrow.svg" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\jeremy-bishop.png" afterPath="$PROJECT_DIR$/assets/imgs/jeremy-bishop.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\logo (1).png" afterPath="$PROJECT_DIR$/assets/imgs/logo (1).png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\logo-oneline.png" afterPath="$PROJECT_DIR$/assets/imgs/logo-oneline.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\logo-oneline2.png" afterPath="$PROJECT_DIR$/assets/imgs/logo-oneline2.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\logo.png" afterPath="$PROJECT_DIR$/assets/imgs/logo.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\notebook_dashboard2.png" afterPath="$PROJECT_DIR$/assets/imgs/notebook_dashboard2.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\rotated-exclamation-mark.svg" afterPath="$PROJECT_DIR$/assets/imgs/rotated-exclamation-mark.svg" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\savesession.svg" afterPath="$PROJECT_DIR$/assets/imgs/savesession.svg" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\search.svg" afterPath="$PROJECT_DIR$/assets/imgs/search.svg" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\talkbubbles.png" afterPath="$PROJECT_DIR$/assets/imgs/talkbubbles.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\talkbubbles.svg" afterPath="$PROJECT_DIR$/assets/imgs/talkbubbles.svg" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\telemkt.png" afterPath="$PROJECT_DIR$/assets/imgs/telemkt.png" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\imgs\telemkt.svg" afterPath="$PROJECT_DIR$/assets/imgs/telemkt.svg" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\js\chat.js" afterPath="$PROJECT_DIR$/assets/js/chat.js" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\js\collapse.js" afterPath="$PROJECT_DIR$/assets/js/collapse.js" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\js\home.js" afterPath="$PROJECT_DIR$/assets/js/home.js" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\assets\js\typed.js" afterPath="$PROJECT_DIR$/assets/js/typed.js" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\css\body.css" afterPath="$PROJECT_DIR$/css/body.css" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\css\chat.css" afterPath="$PROJECT_DIR$/css/chat.css" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\css\home.css" afterPath="$PROJECT_DIR$/css/home.css" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\css\styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\css\styles.css.map" afterPath="$PROJECT_DIR$/css/styles.css.map" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\index.html" afterPath="$PROJECT_DIR$/index-bkp.html" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\output.css" afterPath="$PROJECT_DIR$/output.css" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\sass\_colors.scss" afterPath="$PROJECT_DIR$/sass/_colors.scss" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\sass\_fonts.scss" afterPath="$PROJECT_DIR$/sass/_fonts.scss" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\sass\_global.scss" afterPath="$PROJECT_DIR$/sass/_global.scss" />
+      <change type="MOVED" beforePath="C:\workfolder\Projects_Samples\Gama Experience\bootassign\BOOT\sass\styles.scss" afterPath="$PROJECT_DIR$/sass/styles.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="bootassign.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,34 +89,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BOOT/ajustes/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537" vertical-offset="1547" max-vertical-offset="2329">
-              <caret line="103" column="32" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#p#5;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BOOT/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3807947" vertical-offset="3085" max-vertical-offset="3757">
-              <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BOOT/css/home.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3822" max-vertical-offset="4590">
-              <caret line="232" column="38" selection-start-line="232" selection-start-column="38" selection-end-line="232" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.38235295" vertical-offset="1751" max-vertical-offset="2329">
+              <caret line="116" column="18" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -81,6 +118,7 @@
         <option value="$PROJECT_DIR$/BOOT/sass/_global.scss" />
         <option value="$PROJECT_DIR$/BOOT/ajustes/index.html" />
         <option value="$PROJECT_DIR$/BOOT/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -133,74 +171,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bootassign" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootassign" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootassign" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BOOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootassign" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootassign" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BOOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootassign" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootassign" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BOOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootassign" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootassign" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BOOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ajustes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,54 +289,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BOOT/ajustes/chat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.1764706" vertical-offset="408" max-vertical-offset="2414">
-          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOOT/css/body.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOOT/assets/js/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOOT/css/home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3822" max-vertical-offset="4590">
-          <caret line="232" column="38" selection-start-line="232" selection-start-column="38" selection-end-line="232" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOOT/sass/_global.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7986464" vertical-offset="3115" max-vertical-offset="3706">
-          <caret line="211" column="1" selection-start-line="211" selection-start-column="1" selection-end-line="211" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOOT/assets/js/collapse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35818475" vertical-offset="0" max-vertical-offset="617">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BOOT/vendor/font-awesome/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-61.061256" vertical-offset="36881" max-vertical-offset="37485">
@@ -375,21 +297,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BOOT/ajustes/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537" vertical-offset="1547" max-vertical-offset="2329">
-          <caret line="103" column="32" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#5;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOOT/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3807947" vertical-offset="3085" max-vertical-offset="3757">
-          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.38235295" vertical-offset="1751" max-vertical-offset="2329">
+          <caret line="116" column="18" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
           <folding />
         </state>
       </provider>
