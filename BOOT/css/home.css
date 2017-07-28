@@ -21,12 +21,15 @@ body {
 
 .p-hero {
 	height: 94vh;
-    width: auto;
+    width: 100%;
 	padding-top: 3vh;
 	padding-bottom: 3vh;
 	display: flex;
 	justify-content: center;
 	background-image: url('../assets/imgs/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .container { 
@@ -34,7 +37,6 @@ body {
 	margin-left: 50px;
 	margin-right: 50px;
 }
-
 
 .flexbox-spacebetween {
 	display: flex;

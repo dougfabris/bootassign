@@ -4,13 +4,13 @@ function scrollDown() {
   }, 1000);
 }
 
-function checkAnimation(elem) {
+/*function checkAnimation(elem) {
   if (isScrolledIntoView($(elem))) {
     $('#fixed-header').css('display', 'block');
   }
   else
     $('#fixed-header').css('display', 'none');
-}
+}*/
 
 function isScrolledIntoView(elem) {
   var distanciaDaTelaComTopo = $(window).scrollTop();
