@@ -3,12 +3,15 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const app = express()
+var path = require('path')
 
 
 var port = process.env.PORT || 5000;
 
 app.set('port', port)
 
+app.use(express.static(path.join(__dirname, 'assets')));
+app.use(express.static(path.join(__dirname, 'css')));
 
 app.use(bodyParser.urlencoded({
     extended: false
