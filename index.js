@@ -14,16 +14,12 @@ app.use(bodyParser.urlencoded({
     extended: false
 }))
 
-app.configure(function() {
-    app.use(express.static(__dirname));
-});
-
-
 app.use(bodyParser.json())
 
 // Index route
 app.get('/', function(req, res) {
-    res.render('./index.html');
+     res.sendfile('./index.html');
+//    res.render('./index.html');
     //res.send('asdasd')
 })
 
