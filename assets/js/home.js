@@ -20,7 +20,7 @@ function isScrolledIntoView(elem) {
 }
 
 $(window).scroll(function() {
-  checkAnimation($('.p-hero'));
+  //checkAnimation($('.p-hero'));
 });
 
 $('#headerButton #talkButton').click(function() {

@@ -265,10 +265,13 @@ body {
 		flex-wrap: wrap;
 	}
 	.imagem {
-		position: relative;
+		position: inherit;
+		left: 0px;
+		margin: 0 auto;
+		text-align: center;
 	}
 	.imagem img {
-		width: 100%;
+		width: 80%;
 	}
 	#Seguranca .content-right {
 		width: 100%;
@@ -276,6 +279,9 @@ body {
 	.content-right .content {
 		width: 100%;
 		padding: 10% 0px 0px 10%;
+	}
+	#Seguranca .content-left {
+		display: none;
 	}
 }
 
