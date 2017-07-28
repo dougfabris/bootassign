@@ -137,6 +137,11 @@ body {
 	width: 60%;
 	text-align: justify;
 	padding: 62px 0px 0px 250px;
+	font-family: GothamRounded-Book;
+	font-size: 16px;
+	color: rgba(0, 0, 0, 0.56);
+	letter-spacing: 0;
+	line-height: 25px;
 }
 
 .content-right .content .subtitle {
@@ -144,14 +149,6 @@ body {
 	font-size: 24px;
 	color: rgba(0, 0, 0, 0.72);
 	letter-spacing: 0;
-}
-
-.content-right .content {
-	font-family: GothamRounded-Book;
-	font-size: 16px;
-	color: rgba(0, 0, 0, 0.56);
-	letter-spacing: 0;
-	line-height: 25px;
 }
 
 .groupButton {
@@ -180,6 +177,15 @@ body {
 	display: inline-block;
 	font-weight: 800;
 	text-align: center;*/
+}
+
+#Footer {
+	min-height: 30vh;
+	width: 100%;
+	padding: 5vh 0 0 20vh;
+	display: flex;
+	color: #FFFFFF;
+	background: #5ed090;
 }
 
 #Seguranca .content-right {
@@ -254,34 +260,42 @@ body {
 	}
 }
 
+@media screen and (max-width: 1000px) {
+	.imagem {
+		position: inherit;
+		left: 0px;
+		margin: 0 auto;
+		text-align: center;
+		margin: 10%;
+	}
+	.imagem img {
+		width: 80%;
+	}
+	#Seguranca .content-right {
+		width: 90%;
+		min-height: 0;
+	}
+	.content-right .content {
+		width: 90%;
+		padding: 10% 0px 0px 10%;
+	}
+	#Seguranca .content-left {
+		display: none;
+	}
+}
+
 @media screen and (max-width: 713px) {
 	div.row {
 		flex-wrap: wrap;
+	}
+	#Footer {
+		padding: 10% 0 0 10%;
 	}
 }
 
 @media screen and (max-width: 520px) {
 	div.flexbox-spacebetween {
 		flex-wrap: wrap;
-	}
-	.imagem {
-		position: inherit;
-		left: 0px;
-		margin: 0 auto;
-		text-align: center;
-	}
-	.imagem img {
-		width: 80%;
-	}
-	#Seguranca .content-right {
-		width: 100%;
-	}
-	.content-right .content {
-		width: 100%;
-		padding: 10% 0px 0px 10%;
-	}
-	#Seguranca .content-left {
-		display: none;
 	}
 }
 

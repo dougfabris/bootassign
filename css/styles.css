@@ -218,14 +218,7 @@
   margin: 15px;
 }
 
-#Footer {
-  min-height: 30vh;
-  width: 100%;
-  padding: 5vh 0 0 20vh;
-  display: flex;
-  color: #FFFFFF;
-  background: #5ed090;
-}
+
 
 .universidade-title {
   font-family: GothamRounded-Bold;
